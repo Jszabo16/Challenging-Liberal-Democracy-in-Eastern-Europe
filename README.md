@@ -1,2 +1,2 @@
 # Challenging-Liberal-Democracy-in-Eastern-Europe
-Replication code and data for "Challenging Liberal Democracy in Eastern Europe: Exploring Electoral Support for Illiberal Parties in the Slovak 2023 Parliamentary Election".
+Replication code and data for "Challenging Liberal Democracy in Eastern Europe: Exploring Electoral Support for Illiberal Parties in the Slovak 2023 Parliamentary Election" accepted to Europe-Asia Studies journal. The paper examines which voter attitudes that run counter to the core tenets of the liberal democratic order drove the electoral success of parties advocating an illiberal backlash, using post-election data from the 2023 Slovak parliamentary election. 
